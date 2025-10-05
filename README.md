@@ -87,21 +87,21 @@ MYCITYPEDIA/
 
 ## Screenshots
 
-![Homepage](screenshot/1.jpg)  
-![Homepage](screenshot/2.jpg)  
-![Homepage](screenshot/3.jpg)  
-![Homepage](screenshot/4.jpg)  
-![Homepage](screenshot/5.jpg)  
-![Homepage](screenshot/6.jpg)  
-![Homepage](screenshot/7.jpg)  
-![Homepage](screenshot/8.jpg)  
-![Homepage](screenshot/9.jpg)  
-![Homepage](screenshot/10.jpg)  
-![Homepage](screenshot/11.jpg)  
-![Homepage](screenshot/12.jpg) 
-![Homepage](screenshot/13.jpg)  
-![Homepage](screenshot/14.jpg)  
-![Homepage](screenshot/15.jpg) 
+![Homepage](screenshot/1.JPG)  
+![Homepage](screenshot/2.JPG)  
+![Homepage](screenshot/3.JPG)  
+![Homepage](screenshot/4.JPG)  
+![Homepage](screenshot/5.JPG)  
+![Homepage](screenshot/6.JPG)  
+![Homepage](screenshot/7.JPG)  
+![Homepage](screenshot/8.JPG)  
+![Homepage](screenshot/9.JPG)  
+![Homepage](screenshot/10.JPG)  
+![Homepage](screenshot/11.JPG)  
+![Homepage](screenshot/12.JPG) 
+![Homepage](screenshot/13.JPG)  
+![Homepage](screenshot/14.JPG)  
+![Homepage](screenshot/15.JPG) 
 > Replace with your actual screenshot file names
 
 ---
