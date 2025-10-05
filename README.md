@@ -115,17 +115,7 @@ MYCITYPEDIA/
 
 ---
 
-## Author
 
-**Submitted By:**  
-[Your Name]  
-B. Tech, Computer Engineering  
-XYZ OF ENGINEERING, 2016-2017  
-
-**Guide:**  
-Mrs. [Guide Name]
-
----
 
 ## License
 
