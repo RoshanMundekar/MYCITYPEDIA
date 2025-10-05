@@ -102,6 +102,15 @@ MYCITYPEDIA/
 ![Homepage](screenshot/13.JPG)  
 ![Homepage](screenshot/14.JPG)  
 ![Homepage](screenshot/15.JPG) 
+![Homepage](screenshot/about.JPG) 
+![Homepage](screenshot/ad_1.JPG)  
+![Homepage](screenshot/ad_2.JPG)  
+![Homepage](screenshot/ad_3.JPG)
+![Homepage](screenshot/add_place.JPG)  
+![Homepage](screenshot/chatbot.JPG)  
+![Homepage](screenshot/contact.JPG)
+![Homepage](screenshot/profile.JPG) 
+![Homepage](screenshot/reco_1.JPG)   
 > Replace with your actual screenshot file names
 
 ---
